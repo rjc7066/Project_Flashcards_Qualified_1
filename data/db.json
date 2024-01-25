@@ -1,0 +1,69 @@
+{
+  "decks": [
+    {
+      "id": 2,
+      "name": "React Router",
+      "description": "React Router is a collection of navigational components that compose declaratively with your application."
+    },
+    {
+      "name": "asdf",
+      "description": "asdf",
+      "id": 6
+    },
+    {
+      "name": "asdf",
+      "description": "asdf",
+      "id": 7
+    }
+  ],
+  "cards": [
+    {
+      "id": 2,
+      "front": "How do you modify the state of a different React component? asdfasdfa",
+      "back": "Not at all! State is visible to the component only.",
+      "deckId": 2
+    },
+    {
+      "front": "What does <Switch> do?",
+      "back": "Renders the first matching child <Route> ",
+      "deckId": 2,
+      "id": 5
+    },
+    {
+      "front": "Is react router fun?",
+      "back": "No, not at all. It is pure evil.",
+      "deckId": 2,
+      "id": 10
+    },
+    {
+      "front": "asdfasdf",
+      "back": "asdfasdf",
+      "deckId": 2,
+      "id": 11
+    },
+    {
+      "front": "asdfasdf",
+      "back": "asdfasdf",
+      "deckId": 2,
+      "id": 12
+    },
+    {
+      "front": "asdf",
+      "back": "asdasdf",
+      "deckId": 2,
+      "id": 13
+    },
+    {
+      "front": "asdfasdf",
+      "back": "asdfasdf",
+      "deckId": 2,
+      "id": 14
+    },
+    {
+      "front": "asdfasdf",
+      "back": "asdfasdf",
+      "deckId": 2,
+      "id": 15
+    }
+  ]
+}
