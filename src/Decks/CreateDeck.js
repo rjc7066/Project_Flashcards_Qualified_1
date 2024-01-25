@@ -12,7 +12,7 @@ const CreateDeck = () => {
         event.preventDefault();
         const response = await createDeck({name, description});
         const createdDeck = await response;
-        history.push(`decks/${createdDeck.id}`);
+        history.push(`/decks/${createdDeck.id}`);
     };
 
     return (
